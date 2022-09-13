@@ -1,4 +1,4 @@
-# tools
+# Tools
 
 ## 命令行翻译工具`translate.rb`
 ### info
