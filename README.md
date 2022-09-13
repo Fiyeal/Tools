@@ -8,7 +8,7 @@
 * ruby
 
 ### usage
-使用前请将Shengbang改为自己ruby的路径，笔者的为`#! /usr/bin/ruby`
+使用前请将Shebang改为自己ruby的路径，笔者的为`#! /usr/bin/ruby`
 ```bash
 sudo chmod +x translate.rb # 给执行权限
 sudo ln translate.rb /usr/bin/fy # 硬链接到任一环境变量目录下，命名为fy
